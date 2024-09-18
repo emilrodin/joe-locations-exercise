@@ -2,7 +2,7 @@
 
 git clone https://github.com/mwndigi/joe-locations-exercise.git
 
-Husk npm install.
+Husk npm install for at installere dependencies i package.json
 
 Uddybning af opgaverne fremgår af filerne og præsentationsmateriale.
 
