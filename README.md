@@ -22,7 +22,7 @@ Opgave 3: Lav en asynkron funktion med latitude og longitude som parametre til a
 
 Opgave 4: Lav et endpoint for /menu som returnerer JSON data med produkter og lav en fetch() fra client for at tilføje alle produkterne til DOM på siden menu.html og tilføj HTML-siden til navigationen
 
-[Link til dokumentation for res.json i Express](https://expressjs.com/en/api.html#res.json)
+[Link til dokumentation for res.json med Express](https://expressjs.com/en/api.html#res.json)
 
 Opgave 5: Lav et endpoint for /culture som returnerer JSON data med en Shopify playliste og lav en fetch() fra client for at tilføje Shopify playlisten til en iFrame på DOM på siden culture.html og tilføj HTML-siden til navigationen
 
