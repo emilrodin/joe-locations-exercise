@@ -20,9 +20,9 @@ Opgave 3: Lav en asynkron funktion med latitude og longitude som parametre til a
 
 ## API'er
 
-[Nominatim](https://nominatim.org/release-docs/develop/api/Search/)
+[Link til dokumentation for Nominatim](https://nominatim.org/release-docs/develop/api/Search/)
 
-[Open Meteo](https://open-meteo.com/en/docs)
+[Link til dokumentation for Open Meteo](https://open-meteo.com/en/docs)
 
 ## Fetch API
 
