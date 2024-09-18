@@ -18,7 +18,7 @@ Opgave 2: Lav en asynkron funktion med locationName som parameter til at hente l
 
 Opgave 3: Lav en asynkron funktion med latitude og longitude som parametre til at hente vejrdata
 
-## API'er
+## Public API'er
 
 [Link til dokumentation for Nominatim](https://nominatim.org/release-docs/develop/api/Search/)
 
