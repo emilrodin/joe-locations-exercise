@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
 });
 
 // ----------------------------------------------------------------------------------------------------
-// OPGAVE 1: Lav et endpoint /location for at sende locations.html filen
+// OPGAVE 1: Lav et endpoint /locations for at sende locations.html
 
 
 
