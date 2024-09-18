@@ -18,6 +18,12 @@ Opgave 2: Lav en asynkron funktion med locationName som parameter til at hente l
 
 Opgave 3: Lav en asynkron funktion med latitude og longitude som parametre til at hente vejrdata
 
-# Fetch API
+## API'er
+
+[Nominatim](https://nominatim.org/release-docs/develop/api/Search/)
+
+[Open Meteo](https://open-meteo.com/en/docs)
+
+## Fetch API
 
 [Link til dokumentation for Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
