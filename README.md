@@ -2,6 +2,8 @@
 
 git clone https://github.com/mwndigi/joe-locations-exercise.git
 
+Husk npm install.
+
 Uddybning af opgaverne fremgår af filerne og præsentationsmateriale.
 
 Hint: følg den samme struktur for asynkrone funktioner som i index.js
