@@ -1,4 +1,4 @@
-# joe-locations-exercise
+# JOE locations
 
 git clone https://github.com/mwndigi/joe-locations-exercise.git
 
