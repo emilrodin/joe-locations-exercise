@@ -10,7 +10,7 @@ Hint: følg den samme struktur for asynkrone funktioner som i index.js
 
 ## app.js 
 
-Opgave 1: Lav et endpoint /location for at sende locations.html filen
+Opgave 1: Lav et endpoint /locations for at sende locations.html
 
 ## public/scripts/index.js
 
