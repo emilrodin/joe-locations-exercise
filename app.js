@@ -1,19 +1,19 @@
 const express = require("express");
 const cors = require("cors");
 const path = require("path");
-const cookieParser = require('cookie-parser');
+const cookieParser = require("cookie-parser");
 const app = express();
 
 app.use(cors());
 app.use("/static", express.static("public"));
 app.use((req, res, next) => {
-    console.log("----- HTTP Request -----");
-    console.log(`Method: ${req.method}`); // HTTP Method
-    console.log(`URL: ${req.originalUrl}`); // Requested URL
-    console.log("Headers:", req.headers); // Request Headers
-    console.log(`IP: ${req.ip}`); // IP Address
-    console.log("------------------------");
-    next();
+  console.log("----- HTTP Request -----");
+  console.log(`Method: ${req.method}`); // HTTP Method
+  console.log(`URL: ${req.originalUrl}`); // Requested URL
+  console.log("Headers:", req.headers); // Request Headers
+  console.log(`IP: ${req.ip}`); // IP Address
+  console.log("------------------------");
+  next();
 });
 app.use(cookieParser());
 
@@ -24,9 +24,9 @@ app.get("/", (req, res) => {
 // ----------------------------------------------------------------------------------------------------
 // OPGAVE 1: Lav et endpoint /locations for at sende locations.html
 
-
-
-
+app.get("/location", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "locations.html"));
+});
 
 // ----------------------------------------------------------------------------------------------------
 
